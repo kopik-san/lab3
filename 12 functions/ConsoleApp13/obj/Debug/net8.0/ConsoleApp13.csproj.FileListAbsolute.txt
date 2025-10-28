@@ -1,0 +1,14 @@
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.exe
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.deps.json
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.runtimeconfig.json
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.dll
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\bin\Debug\net8.0\ConsoleApp13.pdb
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.AssemblyInfo.cs
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.dll
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\refint\ConsoleApp13.dll
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.pdb
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ConsoleApp13.genruntimeconfig.cache
+C:\Users\kosan\source\repos\ConsoleApp13\ConsoleApp13\obj\Debug\net8.0\ref\ConsoleApp13.dll

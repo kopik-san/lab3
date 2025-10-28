@@ -1,0 +1,14 @@
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\bin\Debug\net8.0\Message queue in Messenger.exe
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\bin\Debug\net8.0\Message queue in Messenger.deps.json
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\bin\Debug\net8.0\Message queue in Messenger.runtimeconfig.json
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\bin\Debug\net8.0\Message queue in Messenger.dll
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\bin\Debug\net8.0\Message queue in Messenger.pdb
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\obj\Debug\net8.0\Message queue in Messenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\obj\Debug\net8.0\Message queue in Messenger.AssemblyInfoInputs.cache
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\obj\Debug\net8.0\Message queue in Messenger.AssemblyInfo.cs
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\obj\Debug\net8.0\Message queue in Messenger.csproj.CoreCompileInputs.cache
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\obj\Debug\net8.0\Message queue in Messenger.dll
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\obj\Debug\net8.0\refint\Message queue in Messenger.dll
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\obj\Debug\net8.0\Message queue in Messenger.pdb
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\obj\Debug\net8.0\Message queue in Messenger.genruntimeconfig.cache
+C:\Users\kosan\source\repos\Message queue in Messenger\Message queue in Messenger\obj\Debug\net8.0\ref\Message queue in Messenger.dll

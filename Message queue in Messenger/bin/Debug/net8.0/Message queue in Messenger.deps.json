@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Message queue in Messenger/1.0.0": {
+        "runtime": {
+          "Message queue in Messenger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Message queue in Messenger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

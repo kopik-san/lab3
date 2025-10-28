@@ -1,0 +1,14 @@
+C:\Users\kosan\source\repos\product category tree\product category tree\obj\Debug\net8.0\product category tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosan\source\repos\product category tree\product category tree\obj\Debug\net8.0\product category tree.AssemblyInfoInputs.cache
+C:\Users\kosan\source\repos\product category tree\product category tree\obj\Debug\net8.0\product category tree.AssemblyInfo.cs
+C:\Users\kosan\source\repos\product category tree\product category tree\obj\Debug\net8.0\product category tree.csproj.CoreCompileInputs.cache
+C:\Users\kosan\source\repos\product category tree\product category tree\bin\Debug\net8.0\product category tree.exe
+C:\Users\kosan\source\repos\product category tree\product category tree\bin\Debug\net8.0\product category tree.deps.json
+C:\Users\kosan\source\repos\product category tree\product category tree\bin\Debug\net8.0\product category tree.runtimeconfig.json
+C:\Users\kosan\source\repos\product category tree\product category tree\bin\Debug\net8.0\product category tree.dll
+C:\Users\kosan\source\repos\product category tree\product category tree\bin\Debug\net8.0\product category tree.pdb
+C:\Users\kosan\source\repos\product category tree\product category tree\obj\Debug\net8.0\product category tree.dll
+C:\Users\kosan\source\repos\product category tree\product category tree\obj\Debug\net8.0\refint\product category tree.dll
+C:\Users\kosan\source\repos\product category tree\product category tree\obj\Debug\net8.0\product category tree.pdb
+C:\Users\kosan\source\repos\product category tree\product category tree\obj\Debug\net8.0\product category tree.genruntimeconfig.cache
+C:\Users\kosan\source\repos\product category tree\product category tree\obj\Debug\net8.0\ref\product category tree.dll
